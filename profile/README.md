@@ -7,6 +7,7 @@
       \/        \/                    \/  \/
 www.thmisfits.ml
 -->
+
 <p align="center">
 <a href="https://themisfits.ml" target="_blank">
 <picture>
@@ -18,3 +19,8 @@ www.thmisfits.ml
 </p>
 <p align="center">“Plants are more courageous than almost all human beings: an orange tree would rather die than produce lemons, whereas instead of dying the average person would rather be someone they are not.”
 ― <b>Mokokoma Mokhonoana</b></p>
+<p align="center">
+<b>
+<a href="https://github.com/TheRealMisfits/.github/discussions">Discussions</a> - <a href="https://themisfits.ml">Website</a> - <a href="mailto:github@themisfits.ml">Contact</a> 
+</b>
+</p>
